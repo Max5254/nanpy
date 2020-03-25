@@ -24,11 +24,11 @@ classifiers = [
 ]
 
 setup(name="nanpy",
-      version="0.9.6",
+      version="1.9.6",
       description="Use your Arduino board with Python",
       long_description=read('README.rst'),
       license="MIT",
-      author="Andrea Stagi",
+      author="Andrea Stagi, Max Westwater",
       author_email="stagi.andrea@gmail.com",
       url="http://github.com/nanpy/nanpy",
       packages = find_packages(),
